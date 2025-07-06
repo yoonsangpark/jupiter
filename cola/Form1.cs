@@ -46,7 +46,7 @@ namespace cola
 
         }
 
-        private async void BTN_Click(object sender, EventArgs e)
+        private void BTN_Click(object sender, EventArgs e)
         {
             SLog.log(Level.INFO, "BTN_Click started.");            
         }
